@@ -31,8 +31,8 @@ Welcome to my GitHub profile!
 ## 📫 How to reach me
 
 - Email: rizaharyadi2003@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/riza-haryadi)
-- [Twitter](https://twitter.com/rizaharyadi_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/riza-haryadi)
+- Twitter: [Twitter](https://twitter.com/rizaharyadi_)
 
 ## ✨ Fun Facts
 
