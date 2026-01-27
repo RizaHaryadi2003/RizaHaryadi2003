@@ -41,9 +41,8 @@ Welcome to my GitHub profile!
 - 🎵 Music keeps me in the zone while coding or tinkering with blockchain.
 ---
 
-## 📊 Activity Graph
+## ⚡ Recent GitHub Activity
 
-![Riza Haryadi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizaHaryadi2003&theme=react-dark)
-
+![Metrics](https://metrics.lecoq.io/RizaHaryadi2003)
 
 Let’s connect and build something dope in programming, DeFi, or AI! 🚀
