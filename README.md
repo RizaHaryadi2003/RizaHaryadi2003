@@ -41,8 +41,9 @@ Welcome to my GitHub profile!
 - 🎵 Music keeps me in the zone while coding or tinkering with blockchain.
 ---
 
-## ⚡ Recent GitHub Activity
+## 🔥 GitHub Streak
 
-![Metrics](https://metrics.lecoq.io/RizaHaryadi2003)
+![GitHub Streak](https://streak-stats.demolab.com?user=RizaHaryadi2003&theme=radical)
+
 
 Let’s connect and build something dope in programming, DeFi, or AI! 🚀
