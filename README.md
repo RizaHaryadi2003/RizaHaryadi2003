@@ -41,8 +41,8 @@ Welcome to my GitHub profile!
 - 🎵 Music keeps me in the zone while coding or tinkering with blockchain.
 ---
 
-## 📊 Activity Graph
+## 📊 Contribution Stats
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=RizaHaryadi2003&show_icons=true&theme=success)
 
-![Riza Haryadi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizaHaryadi2003&theme=react-dark)
-
-Let’s connect and build something dope in programming, DeFi, or AI! 🚀
+## 🐍 Contribution Snake
+![snake gif](https://github.com/RizaHaryadi2003/RizaHaryadi2003/blob/output/github-contribution-grid-snake.svg)
