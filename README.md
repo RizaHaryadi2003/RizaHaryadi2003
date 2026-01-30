@@ -23,11 +23,6 @@ Welcome to my GitHub profile!
 - **DevOps:** Docker, GitHub Actions
 - **Tools:** VS Code, Git, Remix IDE, Jupyter Notebook
 
-## 📈 GitHub Stats
-
-![Riza Haryadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizaHaryadi2003&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizaHaryadi2003&layout=compact&theme=radical)
-
 ## 📫 How to reach me
 
 - Email: rizaharyadi2003@gmail.com
