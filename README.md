@@ -41,8 +41,3 @@ Welcome to my GitHub profile!
 - 🎵 Music keeps me in the zone while coding or tinkering with blockchain.
 ---
 
-## 📊 Contribution Stats
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=RizaHaryadi2003&show_icons=true&theme=success)
-
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/RizaHaryadi2003/RizaHaryadi2003/output/github-contribution-grid-snake.svg)
