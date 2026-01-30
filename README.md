@@ -45,4 +45,4 @@ Welcome to my GitHub profile!
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=RizaHaryadi2003&show_icons=true&theme=success)
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/RizaHaryadi2003/RizaHaryadi2003/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/RizaHaryadi2003/RizaHaryadi2003/output/github-contribution-grid-snake.svg)
